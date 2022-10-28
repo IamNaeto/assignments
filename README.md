@@ -22,7 +22,7 @@ This repo contains **Zuri X I4G** cohort2 training assignments of week3 to week5
 ## Week5 
 - Week5 basically was about ```git and github``` and how to write ```README.md.``` The task given was to write a ```Special Profile README``` done with our username as its name i.e ```[username].md``` and also to write and push a ```Repo README``` explaining this assignment repo. The ```README.md``` files are:
   - [IamNaeto.md](https://github.com/IamNaeto/IamNaeto)
-  - [README.md](https://github.com/IamNaeto/assignments/blob/week3/README.md)
+  - [README.md](https://github.com/IamNaeto/assignments/blob/Week5/README.md)
 
 ## Author:
 ### Charles Obimnaeto Egesionu
