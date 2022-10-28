@@ -1,6 +1,6 @@
 # Zuri X I4G Training 
 
-This repo contains **Zuri X I4G** cohort2 training assignments of week3 to week5 divided into three branches ``week3`` ``week4`` ``week5`` merged together to the ```week5 branch``` as one.
+This repo contains **Zuri X I4G** cohort2 training assignments of week3 to week5 divided into three branches ``week3`` ``week4``and  ``week5`` merged together to the ```week5 branch``` as one.
 
 ## Week1
 - Week1 was primary orientation which includes ```setting up and getting use to LMS navigation,``` ```Intoduction to Frontend-Web Development,``` ```Introduction to Programming,``` ```joining slack and getting ourselves acquinted with the slack workspace.``` 
